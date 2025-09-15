@@ -1,0 +1,2 @@
+# sruthi
+store manager
